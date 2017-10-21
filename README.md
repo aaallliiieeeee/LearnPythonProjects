@@ -1,6 +1,3 @@
-# iris-ML
-# LearnPythonProjects
-# LearnPythonProjects
-# LearnPythonProjects
-# LearnPythonProjects
-# LearnPythonProjects
+# Learn python projects
+
+series of small projects to theoretically help me learn python
